@@ -1,0 +1,17 @@
+# LaTeX build output
+manuscript/*.aux
+manuscript/*.bbl
+manuscript/*.blg
+manuscript/*.fdb_latexmk
+manuscript/*.fls
+manuscript/*.log
+manuscript/*.out
+manuscript/*.synctex.gz
+manuscript/*.toc
+manuscript/*Notes.bib
+manuscript/main.pdf
+
+# Local editor and operating-system files
+.DS_Store
+.vscode/
+*.swp
