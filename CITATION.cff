@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying research manuscript using the preferred citation below."
+title: "Manuscript and source for A Tensor Formulation of the Choi–Jamiołkowski Isomorphism for Quantum and Hybrid Networks"
+authors:
+  - family-names: "Regis"
+    given-names: "Joaquim"
+preferred-citation:
+  type: unpublished
+  title: "A Tensor Formulation of the Choi–Jamiołkowski Isomorphism for Quantum and Hybrid Networks"
+  authors:
+    - family-names: "Regis"
+      given-names: "Joaquim"
+  year: 2026
