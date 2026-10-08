@@ -30,7 +30,7 @@ The compiled document is written to `manuscript/main.pdf`. The PDF linked above 
   title = {A Tensor Formulation of the {Choi--Jamio{\l}kowski}
            Isomorphism for Quantum and Hybrid Networks},
   year = {2026},
-  note = {Preprint}
+  note = {Preprint, version 1. Available at \url{https://github.com/B1rby/choi-tensor-networks/releases/tag/v1.0.0}}
 }
 ```
 
