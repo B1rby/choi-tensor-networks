@@ -5,7 +5,7 @@ IRIF, Université Paris Cité, CNRS · Department of Mathematics, University of 
 
 **[Read the paper](paper.pdf)** · [LaTeX source](manuscript/main.tex) · [Citation](#citation)
 
-> **Status: 19-pages preprint.** 
+> **Status: 19-page preprint.** 
 
 ## Abstract
 
