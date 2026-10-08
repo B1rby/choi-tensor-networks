@@ -38,7 +38,7 @@ A standalone entry is available in [CITATION.bib](CITATION.bib), and [CITATION.c
 
 ## Acknowledgments
 
-This work was developed under Claudia Faggian’s supervision, with helpful discussions and feedback from Gabriele Tedeschi. Full acknowledgments are included in the manuscript.
+This work was developed under Claudia Faggian's supervision, with helpful discussions and feedback from Gabriele Tedeschi. Full acknowledgments and details of AI assistance are included in the manuscript. No AI system was used to originate the research questions, mathematical framework, results, or original derivations presented in this work.
 
 ## Contact
 
