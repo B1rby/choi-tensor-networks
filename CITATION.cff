@@ -11,3 +11,5 @@ preferred-citation:
     - family-names: "Regis"
       given-names: "Joaquim"
   year: 2026
+  status: preprint
+  url: "https://github.com/B1rby/choi-tensor-networks/releases/tag/v1.0.0"
